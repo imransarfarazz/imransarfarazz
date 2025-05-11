@@ -3,16 +3,11 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=imransarfarazz&label=Profile%20views&color=0e75b6&style=flat" alt="imransarfarazz" /> 
-    <a href="https://twitter.com/yourusername" target="_blank">
+    <a href="https://twitter.com/imransarfarazz" target="_blank">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourusername?style=social">
     </a>
   </p>
 </div>
-
-<h1 align="center">Hi 👋, I'm Imran Sarfaraz</h1>
-<h3 align="center">Architect | Fintech | Senior Full Stack Developer (Ruby on Rails)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imransarfarazz&label=Profile%20views&color=0e75b6&style=flat" alt="imransarfarazz" /> </p>
 
 - 🔭 I’m currently working on [Fauree](https://www.fauree.com)
 
