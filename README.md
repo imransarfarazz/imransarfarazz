@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Imran+Sarfaraz;+Architect+%7C+Fintech+%7C+Senior+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Imran+Sarfaraz;+%7CArchitect+%7C+Fintech+%7C+Senior+Full+Stack+Developer" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=imransarfarazz&label=Profile%20views&color=0e75b6&style=flat" alt="imransarfarazz" /> 
@@ -38,7 +38,6 @@
 </p>
 📈 GitHub Stats
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imransarfarazz&layout=compact&theme=radical&hide_border=true" /> 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imransarfarazz&theme=radical&hide_border=true" /> </div>
 📫 How to Reach Me
 <p align="center"> 
