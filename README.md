@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Imran+Sarfaraz;Architect+%7C+Fintech+%7C+Senior+Full+Stack+Developer" alt="Typing SVG" />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=imransarfarazz&label=Profile%20views&color=0e75b6&style=flat" alt="imransarfarazz" /> 
+    <a href="https://twitter.com/yourusername" target="_blank">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourusername?style=social">
+    </a>
+  </p>
+</div>
+
 <h1 align="center">Hi 👋, I'm Imran Sarfaraz</h1>
 <h3 align="center">Architect | Fintech | Senior Full Stack Developer (Ruby on Rails)</h3>
 
